@@ -13,7 +13,7 @@ I/O rate will be faster
 20GB
 
 What is the first step in a write process from a HDFS client?
--Immediately contact the NameNode
+-Start locally caching the data needs to be written and....
 
 
 HDFS NameNode is not rack aware when it places the replica blocks.
