@@ -1,6 +1,8 @@
 1.Check all true statements about the Directed Acyclic Graph 
 skipped
 
+A DAG is used...
+
 2. Why is building a DAG necessary in Spark but not in MapReduce?
 Because MapReduce always has the same type of workflow, Spark needs to accommodate diverse workflows.
 
